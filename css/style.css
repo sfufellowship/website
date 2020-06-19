@@ -1,3 +1,8 @@
 body .probootstrap-section {
   background: #f0f8ff !important;
 }
+
+.navbar-fixed-bottom,
+.navbar-fixed-top {
+  position: absolute !important;
+}
