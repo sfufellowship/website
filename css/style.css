@@ -6,3 +6,9 @@ body .probootstrap-section {
 .navbar-fixed-top {
   position: absolute !important;
 }
+
+ol,
+p,
+ul {
+  padding-left: 0;
+}
